@@ -7,18 +7,26 @@
   
 # ALGORITHM:
 STEP 1: Import the required packages to perform Data Cleansing,Removing Outliers and Exploratory Data Analysis.
+
 STEP 2: Replace the null value using any one of the method from mode,median and mean based on the dataset available.
+
 STEP 3: Use boxplot method to analyze the outliers of the given dataset.
+
 STEP 4: Remove the outliers using Inter Quantile Range method.
+
 STEP 5: Use Countplot method to analyze in a graphical method for categorical data.
+
 STEP 6: Use displot method to represent the univariate distribution of data.
+
 STEP 7: Use cross tabulation method to quantitatively analyze the relationship between multiple variables.
+
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
 Reg.No : 212223230154
 
 Developed by : PRAVESH N
+
 ![Screenshot 2024-09-04 035421](https://github.com/user-attachments/assets/ffdcfd01-8a5f-4c1c-bfc6-01e5713684b7)
 ![Screenshot 2024-09-04 035446](https://github.com/user-attachments/assets/41e5ad26-ed3f-4b54-b544-dcf4377b6d71)
 ![Screenshot 2024-09-04 035512](https://github.com/user-attachments/assets/527ad20c-f7c7-448e-91f9-a32c776f01f4)
@@ -37,5 +45,4 @@ Developed by : PRAVESH N
 ![Screenshot 2024-09-04 040131](https://github.com/user-attachments/assets/4497643e-f188-409c-9e86-17333d59e73e)
 
 # RESULT
-
 Thus Exploratory Data Analysis is performed on this dataset.
